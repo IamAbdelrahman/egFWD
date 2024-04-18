@@ -5,6 +5,7 @@
 
 | Chapter | Topic |
 | ----- | ------|
+| Topic 0 | C |
 | Topic 1 | DIO |
 | Topic 2 | TIMER |
 | Topic 3 | Interrupt |
