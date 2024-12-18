@@ -20,3 +20,6 @@ all leds turn off when the button is pressed for the fourth time...etc
 - Proteus Simulation
 - MPLAB X IDE
 
+ ## Simulation (GIF)
+ ![egFWD_EXTI](https://github.com/user-attachments/assets/f828967f-9994-4a8c-a89c-e912672798d6)
+
