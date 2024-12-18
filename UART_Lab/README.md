@@ -17,3 +17,5 @@ and sends it to the LCD to be displayed.
 - Proteus Simulation
 - MPLAB X IDE
 
+## Simulation (GIF)
+![egFWD_UART](https://github.com/user-attachments/assets/5211d886-beb6-4049-8692-bcbdde37b3dd)
